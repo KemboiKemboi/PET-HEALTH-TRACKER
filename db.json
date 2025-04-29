@@ -1,0 +1,31 @@
+{
+    "pets": [
+      {
+        "id": 1,
+        "name": "Bella",
+        "type": "Cat",
+        "age": 3,
+        "vaccinated": true,
+        "last_checkup": "2025-02-15",
+        "diet": ["Fish", "Dry Food"],
+        "owner": {
+          "name": "Jane",
+          "contact": "0712345678"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Max",
+        "type": "Dog",
+        "age": 5,
+        "vaccinated": false,
+        "last_checkup": "2025-01-10",
+        "diet": ["Meat", "Kibble"],
+        "owner": {
+          "name": "John",
+          "contact": "0718765432"
+        }
+      }
+    ]
+  }
+  
